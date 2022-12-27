@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.iconLinks {
+    display: flex;
+}
+
+.iconImage {
+    width: 50px;
+    margin-bottom: 4em;
+    margin-right: 1.3em;
+}
+
+.iconLabel {
+    font-family: 'Roboto Light';
+    font-size: 1.3rem;
+    color: #DDDDDD;
+    cursor: pointer;
+    padding-top: 7.2%;
+}
+
+.iconLabel:hover {
+   color: #E90000; 
+}

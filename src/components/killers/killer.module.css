@@ -1,0 +1,29 @@
+.killer {
+    color: #DDDDDD;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 4em;
+}
+
+.killerTitle {
+    text-align: center;
+    font-family: 'Knewave';
+    font-size: 3.5rem;
+    text-shadow: 5px 5px #000000
+}
+
+.killerText {
+    font-family: 'Roboto';
+    font-size: 1.6rem;
+    margin-top: 3em;
+    letter-spacing: 0.1rem;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.killerBox {
+    display: flex;
+    align-self: center;
+    margin-left: 4.8%;
+    margin-top: 3em;
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.cardContent {
+    margin-right: 5%;
+}
+
+.cardTitle {
+    font-family: 'Roboto Medium';
+    letter-spacing: 3px;
+    text-align: center;
+    text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}

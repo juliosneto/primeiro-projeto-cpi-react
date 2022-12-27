@@ -1,13 +1,53 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+    background-color: #400058;
+    background-image: url(./IconPerks_saveTheBestForLast.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 90%;
+    background-position: center;
 }
+
+nav {
+  display: block;
+  background-color: #171717;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h4 {
+  font-family: 'Roboto Medium';
+  color: #DDDDDD;
+  letter-spacing: 0.1rem;
+  text-shadow:
+  3px 3px 0 #000,
+  -1px -1px 0 #000,  
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+  margin-bottom: 5em;
+}
+
+
+footer {
+  background-color: #171717;
+  color: #DDDDDD;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-family: 'Roboto Medium';
+  letter-spacing: 0.15rem;
+}
+
+

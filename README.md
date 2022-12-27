@@ -1,3 +1,6 @@
+Primeiro projeto de Construção de Páginas para Internet I refeito usando ReactJS.
+Ainda faltam alguns ajustas, pois o menu do navegador não funciona.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

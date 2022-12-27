@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.artTitle {
+    margin-top: 1.2em;
+    font-family: 'Knewave';
+    font-size: 4.5rem;
+    text-align: center;
+    color: #DDDDDD;
+    text-shadow: 7px 7px #000000
+}
+
+.textBox {
+    margin: auto;
+    margin-top: 4.5em;
+    text-align: center;
+    width: 50%;
+}
+
+.artText {
+    font-family: 'Roboto';
+    font-size: 1.6rem;
+    color: #DDDDDD;
+}
+
+

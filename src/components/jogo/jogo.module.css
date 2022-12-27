@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.boxJogo {
+    color: #DDDDDD;
+    margin-top: 4em;
+}
+
+.titleJogo {
+    text-align: center;
+    font-family: 'Knewave';
+    font-size: 3.5rem;
+    text-shadow: 5px 5px #000000
+}
+
+.textJogo {
+    margin-top: 3.5em;
+    width: 80%;
+    margin-left: 10%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.pJogo {
+    font-family: 'Roboto';
+    font-size: 1.6rem;
+    margin-top: 20px;
+    letter-spacing: 0.1rem;
+}

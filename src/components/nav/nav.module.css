@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.menuButton {
+    font-family: 'Roboto Medium';
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 8%;
+    margin-right: 8%;
+    border: 0;
+    background-color: #171717;
+    color: #DDDDDD;
+}
+
+.menuButton:hover {
+    color: #E90000;
+}
