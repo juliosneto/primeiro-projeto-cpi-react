@@ -1,4 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 .banner {
     width: 100%;
     display: block;
 }
+
+.navLink {
+    font-family: 'Roboto Medium';
+    font-size: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+    background-color: #171717;
+    color: #DDDDDD;
+}
+
+.navLink:hover {
+    color: #E90000;
+}
+

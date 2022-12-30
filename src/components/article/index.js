@@ -8,7 +8,7 @@ export default function Article() {
                 <p className={Styles.artText}>
                     O Spawnkill é um site focado exclusivamente no jogo de
                     survivor horror Dead By Daylight (2016) e aqui trazemos os
-                    conceitos e dicas do jogo e alguns personagens do game.
+                    conceitos, os objetivos dos jogadores e alguns personagens do game.
                 </p>
             </div>
         </>

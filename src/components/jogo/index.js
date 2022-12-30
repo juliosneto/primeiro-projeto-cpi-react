@@ -2,6 +2,7 @@ import Styles from "./jogo.module.css"
 
 export default function Jogo() {
     return ( 
+        
         <div className={Styles.boxJogo}>
             <h2 className={Styles.titleJogo}>JOGO</h2> 
             <div className={Styles.textJogo}>
@@ -16,5 +17,6 @@ export default function Jogo() {
                 </p>
             </div>
         </div>
+        
     )
 } 
